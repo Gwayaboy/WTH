@@ -3,11 +3,11 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "defaultValue": "WHTGwayaboy-devops-dev",
+            "defaultValue": "WTHGwayaboy-devops-dev",
             "type": "String"
         },
         "hostingPlanName": {
-            "defaultValue": "WHTGwayaboy-devops-asp",
+            "defaultValue": "WTHGwayaboy-devops-asp",
             "type": "String"
         },
         "appInsightsLocation": {
@@ -15,7 +15,7 @@
             "type": "String"
         },
         "appInsightsName": {
-            "defaultValue": "WHTGwayaboy-devops-ai",
+            "defaultValue": "WTHGwayaboy-devops-ai",
             "type": "String"
         },        
         "sku": {
@@ -23,11 +23,11 @@
             "type": "String"
         },
         "registryName": {
-            "defaultValue": "WHTGwayaboy-devopsreg",
+            "defaultValue": "WTHGwayaboy-devopsreg",
             "type": "String"
         },
         "imageName": {
-            "defaultValue": "WHTGwayaboy-devopsimage",
+            "defaultValue": "WTHGwayaboy-devopsimage",
             "type":"String"
         },
         "registryLocation": {
